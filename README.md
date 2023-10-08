@@ -13,12 +13,11 @@ El repositorio se organiza con la siguiente estructura:
     .
     ├── src
     │   ├── osctck.py
-    │   └── rotmcESP.py
-    │   └── usrt.py
+    │   ├── rotmcESP.py
+    │   ├── usrt.py
     │   └── utils.py
     ├── examples    
     │   ├── Ejemplo de control de base (ESP300)
-    │   └── Ejemplo de medicion con osciloscopio (TDS2024)
+    │   ├── Ejemplo de medicion con osciloscopio (TDS2024)
     │   └── Ejemplo de Rutina de tomografia
-    │   └── ...
     └── README.md
