@@ -9,6 +9,7 @@ En este repositorio se encuentran los códigos fuentes desarrollados para automa
 
 ## Organización del repositorio
 El repositorio se organiza con la siguiente estructura:
+    
     .
     ├── src
     │   ├── osctck.py
