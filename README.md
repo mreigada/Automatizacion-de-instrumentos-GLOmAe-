@@ -17,7 +17,8 @@ El repositorio se organiza con la siguiente estructura:
     │   ├── usrt.py
     │   └── utils.py
     ├── examples    
-    │   ├── Ejemplo de control de base (ESP300)
-    │   ├── Ejemplo de medicion con osciloscopio (TDS2024)
-    │   └── Ejemplo de Rutina de tomografia
+    │   ├── Measurement with oscilloscope (TDS2024)
+    │   ├── Rotary base control (ESP300)
+    │   └── Tomography Routine
+    └── linux_notes.md
     └── README.md
